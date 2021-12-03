@@ -18,7 +18,7 @@
    2. carrot
    3. betroot
 [gfg][www.geeksforgeeks.com]
-![https://cdn1.dotesports.com/wp-content/uploads/2019/10/03111139/call-of-duty-mobile-1.jpg]
+![https://dotesports.com/news/call-of-duty-mobile-garena-and-global-whats-the-difference]
 
 s.no|name|grade
 ----|-----
