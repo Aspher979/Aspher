@@ -17,4 +17,5 @@
    1. brinjal
    2. carrot
    3. betroot
-[www.geeksforgeeks.com]
+[gfg][www.geeksforgeeks.com]
+![https://cdn1.dotesports.com/wp-content/uploads/2019/10/03111139/call-of-duty-mobile-1.jpg]
